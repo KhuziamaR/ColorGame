@@ -1,4 +1,6 @@
 # ColorGame
+VIEW HERE : *https://khuziamar.github.io/ColorGame/*
+
 RGB Color Game using HTML CSS and JavaScript
 
 This is a Game I built using HTML , CSS , and Java Script! I was inspired to make this exciting project from The WebDevelopment BootCamp By Colt Steel on Udemy!
